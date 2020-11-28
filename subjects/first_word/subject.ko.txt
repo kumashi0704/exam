@@ -1,0 +1,23 @@
+Assignment name  : first_word
+Expected files   : first_word.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+문자열을 인자로 받아, 그 문자열의 첫번째 단어를 출력하는 프로그램을 작성하시오.
+단어는 공백/탭 혹은 시작/끝으로 구분 된 문자열 입니다.
+
+인수의 개수가 1개가 아니거나 단어가 없는 경우 줄 바꿈을 출력하십시오.
+
+Examples:
+
+$> ./first_word "FOR PONIES !!" | cat -e
+FOR$
+$> ./first_word "this        ...       is sparta, then again, maybe    not" | cat -e
+this$
+$> ./first_word "   " | cat -e
+$
+$> ./first_word "a" "b" | cat -e
+$
+$> ./first_word "  lorem,ipsum  " | cat -e
+lorem,ipsum$
+$>

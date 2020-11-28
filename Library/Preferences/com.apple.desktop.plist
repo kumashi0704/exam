@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Background</key>
+	<dict>
+		<key>spaces</key>
+		<dict>
+			<key></key>
+			<dict>
+				<key>69992768</key>
+				<dict>
+					<key>BackgroundColor</key>
+					<array>
+						<real>0.25490197539329529</real>
+						<real>0.4117647111415863</real>
+						<real>0.66666668653488159</real>
+					</array>
+					<key>Change</key>
+					<string>Never</string>
+					<key>ChangePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors</string>
+					<key>ChangeTime</key>
+					<real>1800</real>
+					<key>DrawBackgroundColor</key>
+					<true/>
+					<key>ImageFileAlias</key>
+					<data>
+					AAAAAADcAAMAAAAAzgZ/PAAASCsAAAAAAAKr
+					aQACq3gAAMwH2+IAAAAACSD//gAAAAAAAAAA
+					/////wABAAwAAqtpAAKrIgACbB0ADgAoABMA
+					UwBvAGwAaQBkACAARwByAGEAeQAgAEQAYQBy
+					AGsALgBwAG4AZwAPABoADABNAGEAYwBpAG4A
+					dABvAHMAaAAgAEgARAASADlMaWJyYXJ5L0Rl
+					c2t0b3AgUGljdHVyZXMvU29saWQgQ29sb3Jz
+					L1NvbGlkIEdyYXkgRGFyay5wbmcAABMAAS8A
+					//8AAA==
+					</data>
+					<key>ImageFilePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors/Space Gray Pro.png</string>
+					<key>NewChangePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors</string>
+					<key>NewImageFilePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors/Space Gray Pro.png</string>
+					<key>NoImage</key>
+					<false/>
+					<key>Placement</key>
+					<string>Crop</string>
+					<key>Random</key>
+					<false/>
+				</dict>
+				<key>default</key>
+				<dict>
+					<key>BackgroundColor</key>
+					<array>
+						<real>0.25490197539329529</real>
+						<real>0.4117647111415863</real>
+						<real>0.66666668653488159</real>
+					</array>
+					<key>Change</key>
+					<string>Never</string>
+					<key>ChangePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors</string>
+					<key>ChangeTime</key>
+					<real>1800</real>
+					<key>DrawBackgroundColor</key>
+					<true/>
+					<key>ImageFileAlias</key>
+					<data>
+					AAAAAADcAAMAAAAAzgZ/PAAASCsAAAAAAAKr
+					aQACq3gAAMwH2+IAAAAACSD//gAAAAAAAAAA
+					/////wABAAwAAqtpAAKrIgACbB0ADgAoABMA
+					UwBvAGwAaQBkACAARwByAGEAeQAgAEQAYQBy
+					AGsALgBwAG4AZwAPABoADABNAGEAYwBpAG4A
+					dABvAHMAaAAgAEgARAASADlMaWJyYXJ5L0Rl
+					c2t0b3AgUGljdHVyZXMvU29saWQgQ29sb3Jz
+					L1NvbGlkIEdyYXkgRGFyay5wbmcAABMAAS8A
+					//8AAA==
+					</data>
+					<key>ImageFilePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors/Space Gray Pro.png</string>
+					<key>NewChangePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors</string>
+					<key>NewImageFilePath</key>
+					<string>/Library/Desktop Pictures/Solid Colors/Space Gray Pro.png</string>
+					<key>NoImage</key>
+					<false/>
+					<key>Placement</key>
+					<string>Crop</string>
+					<key>Random</key>
+					<false/>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>update-id</key>
+	<integer>10080000</integer>
+</dict>
+</plist>

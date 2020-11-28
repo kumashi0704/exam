@@ -1,0 +1,34 @@
+ls
+cd subjects
+ls
+c aff_z/
+cd aff_z/
+;s
+ls
+less subject.ja.txt 
+ls
+cd ..
+ls
+cd ft_strlen/
+ls
+less subject.ja.txt 
+cd ..
+ls
+cd first_word/
+ls
+vi subject.ja.txt 
+ls
+cd ..
+ls
+cd inter
+ls
+vi subject.ja.txt 
+ls
+cd ..
+ls
+cd ft_atoi
+ls
+vi subject.ja.txt 
+man isspace
+man atoi
+vi subject.ja.txt 

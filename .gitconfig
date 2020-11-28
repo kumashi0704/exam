@@ -1,0 +1,5 @@
+[user]
+	email = exam-no-reply@42.fr
+	name = Exam 42
+[push]
+	default = simple

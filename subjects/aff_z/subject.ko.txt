@@ -1,0 +1,20 @@
+Assignment name  : aff_z
+Expected files   : aff_z.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+문자열을 받고 그 문자열의 첫번째 'z'와 줄바꿈 문자를 함께 출력하는 프로그램을
+작성하십시오.
+'z'가 없는 경우 'z'와 줄바꿈 문자를 출력하십시오.
+매개변수의 수가 1이 아닌 경우'z'와 줄바꿈을 표시하십시오.
+
+Example:
+
+$> ./aff_z "abc" | cat -e
+z$
+$> ./aff_z 'RaInB0w d4Sh!' | cat -e
+z$
+$> ./aff_z 'ThE C4k3 Is a L|3' | cat -e
+z$
+$> ./aff_z | cat -e
+z$

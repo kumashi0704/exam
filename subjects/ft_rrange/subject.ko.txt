@@ -1,0 +1,19 @@
+Assignment name  : ft_rrange
+Expected files   : ft_rrange.c
+Allowed functions: malloc
+--------------------------------------------------------------------------------
+
+다음 함수를 작성하십시오:
+
+int     *ft_rrange(int start, int end);
+
+malloc()으로 정수 배열을  할당하고 end에서 시작하여 start에서 끝나는 (start와
+end 포함!) 연속적인 값으로 채운 후 배열의 첫번째 값에 대한 포인터를
+반환하십시오.
+
+Examples:
+
+- With (1, 3) you will return an array containing 3, 2 and 1
+- With (-1, 2) you will return an array containing 2, 1, 0 and -1.
+- With (0, 0) you will return an array containing 0.
+- With (0, -3) you will return an array containing -3, -2, -1 and 0.
